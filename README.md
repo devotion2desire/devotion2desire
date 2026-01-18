@@ -6,4 +6,4 @@
 <p align="center"> <img src=https://twistedwonderland.wiki.gg/images/Card_Trey_SR_Ceremonial_Robes_Groovy.png?341787> </p>
 
 
-  $\color{#73C72E}{\textsf{"Sorry, but i haven't had my fill yet."}}$
+  $\color{#73C72E}{\textsf{"What to make next... What would you like to eat? I'll take your request."}}$
