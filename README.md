@@ -6,4 +6,4 @@
 
 
 
-  $\color{#EE4B2B}{\textsf{"It must be fate that we met here like this. Would you care to join me for tea? I'll put some on."}}$
+  $\color{#008080}{\textsf{"It must be fate that we met here like this. Would you care to join me for tea? I'll put some on."}}$
