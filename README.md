@@ -1,7 +1,7 @@
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=devotion2desire&color=blue)
 
-<p align="Center">
-<img src="https://komarev.com/ghpvc/?username=devotion2desire&label=Mushrooms&color=#yellow"
-  </p>
 
 
 
